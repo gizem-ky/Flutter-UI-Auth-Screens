@@ -6,7 +6,7 @@ Bu proje, modern ve şık bir **giriş & kayıt ekranı** kullanıcı arayüzü 
 
 ✅ **Karşılama Ekranı** – Kullanıcıyı sıcak bir şekilde karşılar.  
 ✅ **Sign In (Giriş Yap)** – Kullanıcıların hesaplarına giriş yapmalarını sağlar.  
-✅ **Sign Up (Kayıt Ol)** – Yeni kullanıcıların hesap oluşturmalarına imkan tanır.
+✅ **Sign Up (Kayıt Ol)** – Yeni kullanıcıların hesap oluşturmalarına imkan tanır.                                                                                                        
 ✅ **Temiz ve Minimalist Kod Yapısı** – Kolay okunabilir ve genişletilebilir.
 
 ## 📸 Ekran Görüntüleri
