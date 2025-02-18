@@ -21,7 +21,7 @@ Bu proje, modern ve şık bir **giriş & kayıt ekranı** kullanıcı arayüzü 
 
 1️⃣ Bu depoyu klonlayın:  
    ```bash
-   git clone https://github.com/yourusername/flutter-auth-ui.git
+   git clone https://github.com/gizem-ky/Flutter-UI-Auth-Screens.git
    cd flutter-auth-ui
    ```
 2️⃣ Bağımlılıkları yükleyin:  
