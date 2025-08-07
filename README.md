@@ -1,4 +1,4 @@
-# 🚀 Flutter UI - Auth Screens
+#  Flutter UI - Auth Screens
 
 Bu proje, modern ve şık bir **giriş & kayıt ekranı** kullanıcı arayüzü içerir. Uygulama **Flutter** ile geliştirilmiş olup, üç ana ekrandan oluşmaktadır: **Welcome Back (Karşılama)**, **Sign In (Giriş Yap)** ve **Sign Up (Kayıt Ol)**.
 
@@ -17,7 +17,7 @@ Bu proje, modern ve şık bir **giriş & kayıt ekranı** kullanıcı arayüzü 
   <img src="./screenshots/signup.png" alt="Sign Up" width="300">
 </p>
 
-## 🚀 Kurulum & Çalıştırma
+##  Kurulum & Çalıştırma
 
 1️⃣ Bu depoyu klonlayın:  
    ```bash
